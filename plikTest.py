@@ -1,4 +1,4 @@
 def print_fun(name):
     print("Hello", name, "!")
 
-print_fun("Rafał")
+print_fun("Franek")
